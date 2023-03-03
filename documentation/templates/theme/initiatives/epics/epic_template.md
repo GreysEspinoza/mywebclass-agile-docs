@@ -19,13 +19,15 @@ Risks:
 1. Non-compliance with GDPR regulations - mitigation: regular privacy policy reviews and updates.
 2. Data breaches or privacy violations - mitigation: implementing necessary privacy measures.
 
-Estimated Effort: 2-3 weeks
+Estimated Effort: 
+1. 2-3 weeks
 
 Business Value:
 1. Maintain user trust and improve user experience.
 2. Ensure compliance with GDPR regulations and avoid legal consequences.
 
-Priority: High
+Priority: 
+1. High
 
 # List stories related to this theme
 1. [As a website visitor, I want to see a clear privacy policy and know that my data is protected when using the website](stories/story_template.md)
