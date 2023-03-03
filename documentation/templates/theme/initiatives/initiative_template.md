@@ -48,4 +48,4 @@ Team:
 3. Data Analyst/SEO Specialist
 
 # List epics related to this theme
-1. [Create a privacy policy page and implement necessary privacy measures](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Create a privacy policy page and implement necessary privacy measures](epics/epic_template.md)
