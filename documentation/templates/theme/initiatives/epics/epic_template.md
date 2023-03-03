@@ -28,5 +28,4 @@ Business Value:
 Priority: High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
-2. As an educator, I want to access teaching resources for software engineering and advanced technologies so that I can enhance my teaching methods.
+1. [As an educator, I want to access teaching resources for software engineering and advanced technologies so that I can enhance my teaching methods.](stories/story_template.md)
