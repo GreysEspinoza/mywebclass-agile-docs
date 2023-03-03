@@ -16,8 +16,10 @@ Dependencies:
 2. Web development and design resources.
 
 Risks:
-1. Non-compliance with GDPR regulations - mitigation: regular privacy policy reviews and updates.
-2. Data breaches or privacy violations - mitigation: implementing necessary privacy measures.
+1. Non-compliance with GDPR regulations 
+2. Mitigation: regular privacy policy reviews and updates.
+3. Data breaches or privacy violations 
+4. Mitigation: implementing necessary privacy measures.
 
 Estimated Effort: 
 1. 2-3 weeks
