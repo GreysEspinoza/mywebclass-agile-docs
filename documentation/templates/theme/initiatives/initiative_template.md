@@ -49,3 +49,4 @@ Team:
 
 # List epics related to this theme
 1. [Create a privacy policy page and implement necessary privacy measures](epics/epic_template.md)
+2. [Conduct W3C validation and Lighthouse audits to ensure compliance](epics/epic_template1.md)
