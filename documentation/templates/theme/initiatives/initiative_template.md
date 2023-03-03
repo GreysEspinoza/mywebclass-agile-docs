@@ -1,6 +1,7 @@
-"Implement Google Analytics to measure website usage behavior"
+# "Implement Google Analytics to measure website usage behavior"
 
-Description: Implement Google Analytics to track website usage behavior and gain insights into user behavior.
+## Description: 
+Implement Google Analytics to track website usage behavior and gain insights into user behavior.
 
 Goals:
 Measure website traffic and user behavior to optimize website performance.
@@ -47,4 +48,4 @@ Web Developer
 Data Analyst/SEO Specialist
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Create a privacy policy page and implement necessary privacy measures](documentation/templates/theme/initiatives/epics/epic_template.md)
