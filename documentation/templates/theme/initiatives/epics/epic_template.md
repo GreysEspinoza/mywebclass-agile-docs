@@ -1,4 +1,4 @@
-# "Create a privacy policy page and implement necessary privacy measures"
+# Epic 1: "Create a privacy policy page and implement necessary privacy measures"
 
 ## Description:
 Create a privacy policy page and implement necessary privacy measures to ensure compliance with GDPR regulations and protect user data.
@@ -28,4 +28,4 @@ Business Value:
 Priority: High
 
 # List stories related to this theme
-1. [As an educator, I want to access teaching resources for software engineering and advanced technologies so that I can enhance my teaching methods.](stories/story_template.md)
+1. [As a website visitor, I want to see a clear privacy policy and know that my data is protected when using the website](stories/story_template.md)

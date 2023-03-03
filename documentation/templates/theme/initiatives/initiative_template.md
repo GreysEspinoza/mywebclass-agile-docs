@@ -1,4 +1,4 @@
-# Initiative: Implement Google Analytics to measure website usage behavior
+# Initiative 1: Implement Google Analytics to measure website usage behavior
 
 ## Description: 
 Implement Google Analytics to track website usage behavior and gain insights into user behavior.

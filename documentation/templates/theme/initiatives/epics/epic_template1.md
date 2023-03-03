@@ -1,4 +1,4 @@
-# Conduct W3C validation and Lighthouse audits to ensure compliance
+# Epic 2: Conduct W3C validation and Lighthouse audits to ensure compliance
 
 Description: 
 Conduct W3C validation and Lighthouse audits to ensure compliance with technical and legal requirements.

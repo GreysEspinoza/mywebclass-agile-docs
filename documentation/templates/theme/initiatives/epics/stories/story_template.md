@@ -1,4 +1,5 @@
-"As an educator, I want to access teaching resources for software engineering and advanced technologies so that I can enhance my teaching methods."
+# Story 1: As an Educator
+"As a website visitor, I want to see a clear privacy policy and know that my data is protected when using the website"
 
 ## Acceptance Criteria:
 
