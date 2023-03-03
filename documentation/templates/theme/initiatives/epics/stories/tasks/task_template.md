@@ -1,6 +1,6 @@
 # Task 1
 
-Task Title: Create a Privacy Policy page and ensure compliance with GDPR regulations to protect user data and privacy
+Task Title: Perform W3C validation to ensure that the website code meets web standards and accessibility requirements
 
 User Story: As a developer, I want to ensure that the website code meets web standards and accessibility requirements by performing W3C validation.
 
@@ -18,7 +18,9 @@ Notes: Front-End Developer will use the W3C validation tool to check the website
 
 # Task 2
 
-Task Title: Create a Privacy Policy page and ensure compliance with GDPR regulations to protect user data and privacy
+Task Title: Create a Privacy init Policy page and ensure compliance with GDPR regulations to protect user data and privacy
+
+Description: Create a privacy policy page and ensure that it complies with GDPR regulations. The privacy policy should clearly explain how user data is collected, stored, and used. It should also provide information on how users can control their data and exercise their rights under GDPR.
 
 User Story: As a website visitor, I want to see a clear privacy policy and know that my data is protected when using the website.
 
@@ -33,3 +35,19 @@ Priority: High
 Status: In progress
 
 Notes: Developer will work closely with the legal team to ensure that the privacy policy complies with GDPR regulations.
+
+# Task 3
+
+User Story: As a website owner, I want to ensure that my website meets performance, accessibility, and user experience standards, so that users can have a better experience and the website can be more successful.
+
+Description: The task involves running Lighthouse audits on the website to assess its performance, accessibility, and user experience. The audits will provide information on issues that need to be fixed to improve the website's performance, accessibility, and user experience. The acceptance criteria for this task are that the website passes Lighthouse audits with high scores in all areas. The task has no dependencies.
+
+Effort Estimate: 4 hours
+
+Assigned To: Web Developer
+
+Priority: High
+
+Status: Not started
+
+Notes: The Web Developer should run Lighthouse audits on the website regularly to ensure that it meets the standards and make necessary changes to improve its performance, accessibility, and user experience.
